@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mahdiyari15/react-app.git/static/css/main.79d9d93d.chunk.css",
-    "main.js": "/mahdiyari15/react-app.git/static/js/main.2cc0ddbb.chunk.js",
-    "main.js.map": "/mahdiyari15/react-app.git/static/js/main.2cc0ddbb.chunk.js.map",
-    "runtime-main.js": "/mahdiyari15/react-app.git/static/js/runtime-main.4d632791.js",
-    "runtime-main.js.map": "/mahdiyari15/react-app.git/static/js/runtime-main.4d632791.js.map",
-    "static/js/2.e7ee96dc.chunk.js": "/mahdiyari15/react-app.git/static/js/2.e7ee96dc.chunk.js",
-    "static/js/2.e7ee96dc.chunk.js.map": "/mahdiyari15/react-app.git/static/js/2.e7ee96dc.chunk.js.map",
-    "static/js/3.5ae4b973.chunk.js": "/mahdiyari15/react-app.git/static/js/3.5ae4b973.chunk.js",
-    "static/js/3.5ae4b973.chunk.js.map": "/mahdiyari15/react-app.git/static/js/3.5ae4b973.chunk.js.map",
-    "index.html": "/mahdiyari15/react-app.git/index.html",
-    "static/css/main.79d9d93d.chunk.css.map": "/mahdiyari15/react-app.git/static/css/main.79d9d93d.chunk.css.map",
-    "static/js/2.e7ee96dc.chunk.js.LICENSE.txt": "/mahdiyari15/react-app.git/static/js/2.e7ee96dc.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/mahdiyari15/react-app.git/static/media/IRANSansWeb.84fda3e8.ttf"
+    "main.css": "/react-app/static/css/main.892c485f.chunk.css",
+    "main.js": "/react-app/static/js/main.2cc0ddbb.chunk.js",
+    "main.js.map": "/react-app/static/js/main.2cc0ddbb.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.0bc59900.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.0bc59900.js.map",
+    "static/js/2.e7ee96dc.chunk.js": "/react-app/static/js/2.e7ee96dc.chunk.js",
+    "static/js/2.e7ee96dc.chunk.js.map": "/react-app/static/js/2.e7ee96dc.chunk.js.map",
+    "static/js/3.5ae4b973.chunk.js": "/react-app/static/js/3.5ae4b973.chunk.js",
+    "static/js/3.5ae4b973.chunk.js.map": "/react-app/static/js/3.5ae4b973.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.892c485f.chunk.css.map": "/react-app/static/css/main.892c485f.chunk.css.map",
+    "static/js/2.e7ee96dc.chunk.js.LICENSE.txt": "/react-app/static/js/2.e7ee96dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-app/static/media/IRANSansWeb.84fda3e8.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d632791.js",
+    "static/js/runtime-main.0bc59900.js",
     "static/js/2.e7ee96dc.chunk.js",
-    "static/css/main.79d9d93d.chunk.css",
+    "static/css/main.892c485f.chunk.css",
     "static/js/main.2cc0ddbb.chunk.js"
   ]
 }
